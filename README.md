@@ -4,7 +4,7 @@ MyReads is a project from Udacity's React Nanodegree course. This is a bookshelf
 This project was bootstrapped with Create React App. A subset of instructions is shown bellow:
 
 In the project directory, you can run:
-
+npm install
 npm start
 Runs the app in the development mode.
 
